@@ -66,6 +66,7 @@ grid-template-rows: repeat(2,minmax(300px,1fr));
 .projet div{
     background-color: white;
     padding: 10px;
+    border-left: solid 6px #0891b2;
     border-radius: 4px;
     box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
 }
